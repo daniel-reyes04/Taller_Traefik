@@ -11,6 +11,6 @@ La diferencia es como se declaran los enrutamientos, mientras que en las etiquet
 ## como se entera traefik de que habia servicios nuevos?
 Para saber que tiene servicios nuevos lo que hace traefik es moniotorizar la infraestructura sobre la cual esta asentado, por ejemplo en un contenedor una vez se ha desplegado el contenedor se extrae la información que necesita para dirigir el tráfico a ese nuevo servicio
 
-## Integrantess
+## Integrantes
 ## Daniel Alejandro Reyes León
 ## Anderson Eduardo Carvajal Oliveros
